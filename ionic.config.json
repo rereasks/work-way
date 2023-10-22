@@ -1,0 +1,8 @@
+{
+  "name": "WorkWay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "edf802f8"
+}
